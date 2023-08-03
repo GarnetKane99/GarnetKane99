@@ -1,4 +1,3 @@
-My name is Jake - GarnetKane is my middle name(s)
+Professional Game Developer, currently working at Tin Man Games as a Gameplay/Tools Programmer.
 
-I'm a passionate game developer/designer finishing up my Bachelor of Science in Games Development at the University of Technology, Sydney
-
+Also doing Youtube on the side (Youtube.com/@GarnetKane) 
